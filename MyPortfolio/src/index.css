@@ -7,6 +7,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 :root {
   --blue-rgb: 237 245 255;
   --green-rgb: 125 161 35;
