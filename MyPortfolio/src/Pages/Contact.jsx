@@ -4,7 +4,9 @@ import { Suspense, useRef, useState } from "react";
 
 import { Fox } from "../modals/Fox";
 
-import { Loader } from "../components/Loader";
+// import { Loader } from "../components/Loader";
+import { Loader } from "../Components/Loader";
+
 
 const Contact = () => {
   const formRef = useRef();
