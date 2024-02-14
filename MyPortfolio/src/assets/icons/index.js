@@ -22,6 +22,7 @@ import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
+import closetag from './closetag.png'
 
 export {
     css,
@@ -48,4 +49,5 @@ export {
     summiz,
     arrow,
     contact,
+    closetag
 }

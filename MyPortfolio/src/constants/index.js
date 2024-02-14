@@ -8,9 +8,11 @@ import {
     html,
     javascript,
     linkedin,
+    closetag,
     // nextjs,
     nodejs,
     pricewise,
+
     react,
     redux,
     // sass,
@@ -92,7 +94,7 @@ export const experiences = [
     {
         title: "Full stack developer",
         company_name: "soyHenry Bootcamp",
-        icon: pricewise,
+        icon: closetag,
         iconBg: "#EEEF00",
         date: "Aug 2023",
         points: [
