@@ -90,6 +90,16 @@ export const skills = [
 
 export const experiences = [
     {
+        title: "Full stack developer",
+        company_name: "soyHenry Bootcamp",
+        icon: pricewise,
+        iconBg: "#EEEF00",
+        date: "Aug 2023",
+        points: [
+            "Developed a simple page application that is a solution designed to address the challenge of rising prices on major e-commerce platforms in Latin America. This page allows users to enjoy new things by swapping new or used items with others on the platform."
+        ],
+    },
+    {
         title: "Manager",
         company_name: "ReparTienda",
         icon: repartienda,
@@ -109,16 +119,6 @@ export const experiences = [
             "Implementing digital strategy to make a better user experience while browsing our social media pages.",
             "Building and maintaining direct communication channels with producers to ensure a clear understanding of their needs.",
             "Direct contact with customers for travel insurance quotations.",
-        ],
-    },
-    {
-        title: "Full stack developer",
-        company_name: "soyHenry Bootcamp",
-        icon: pricewise,
-        iconBg: "#EEEF00",
-        date: "Aug 2023",
-        points: [
-            "Developed a simple page application that is a solution designed to address the challenge of rising prices on major e-commerce platforms in Latin America. This page allows users to enjoy new things by swapping new or used items with others on the platform."
         ],
     },
 
