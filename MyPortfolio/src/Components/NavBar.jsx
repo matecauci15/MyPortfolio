@@ -5,7 +5,7 @@ import { github, linkedinlogo, twitter } from '../assets/icons'
 const NavBar = () => {
   return (
     <header className="header">
-        <NavLink to="/Portfolio" className="w-10 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md">
+        <NavLink to="/MyPortfolio" className="w-10 h-10 rounded-lg bg-white items-center justify-center flex font-bold shadow-md">
         <p className="blue-gradient_text">MC</p>
         </NavLink>
         <nav className='flex text-lg gap-4 items-center font-medium'>
