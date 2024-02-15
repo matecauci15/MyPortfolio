@@ -15,13 +15,13 @@ const NavBar = () => {
             <NavLink to="/projects" className={({ isActive }) => isActive ? 'text-blue-500' : 'text-black'}>
                 Projects
             </NavLink>
-            <NavLink blank to="https://github.com/matecauci15">
+            <NavLink  to="https://github.com/matecauci15">
                 <img className='w-7 h-8' src={github} alt="Github" />
             </NavLink>
-            <NavLink blank to="https://www.linkedin.com/in/mateo-caucino/">
+            <NavLink  to="https://www.linkedin.com/in/mateo-caucino/">
                 <img className='w-8 h-8' src={linkedinlogo} alt="LinkedIn" />
             </NavLink>
-            <NavLink blank to="https://twitter.com/mateocaucino">
+            <NavLink  to="https://twitter.com/mateocaucino">
                 <img className='w-8 h-8' src={twitter} alt="Twitter" />
             </NavLink>
         </nav>
